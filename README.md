@@ -46,7 +46,7 @@
 [点击官方网站注册](https://go.1vpn.cc/ewan)  
 最低套餐月付11元
 
-飞机云网络加速器是一家专注于ssr和V2ray翻墙机场节点。采用国内优质IEPL专线加速，由海外团队运营，使用SSR+V2ray协议，一键导入支持Clash、Shadowsocks等翻墙插件。
+尔湾云网络加速器是一家专注于ssr和V2ray翻墙机场节点。采用国内优质IEPL专线加速，由海外团队运营，使用SSR+V2ray协议，一键导入支持Clash、Shadowsocks等翻墙插件。
 
 线路节点快速稳定，支持netflix网飞等流媒体解锁，支持流畅访问chatgpt、google、Tiktok、youtube、Github等外网。
 
