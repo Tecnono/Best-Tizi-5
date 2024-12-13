@@ -2,13 +2,13 @@
 
 **稳定好用的翻墙机场推荐，相对比常见的翻墙VPN如ExpressVPN、AstrillVPN等各种一键翻墙VPN，更推荐使用机场加速器翻墙，翻墙机场提供翻墙梯子网络加速线路，用户只需安装Clash、v2rayN、v2rayNG、Shadowrocket、sing-box、Clash Verge等第三方科学魔法上网客户端即可实现一键翻墙。**
 
-泰克收集整理了部分好用的翻墙机场，从机场线路节点区分包含了直连机场、BGP中转机场、IPLC专线机场、IEPC专线机场，从机场协议区分包含了Shadowsocks节点、SSR节点、V2Ray节点、Trojan节点、Clash节点，从机场特色区分包含了高端机场、老牌机场、便宜机场、一元机场、性价比机场，推荐给各位[科学上网和翻墙梯子](https://gitlab.com/best_vpn1/tizi-1)爱好者，希望能够有所帮助。
+2025年主流稳定靠谱的翻墙机场，从机场线路节点区分包含了直连机场、BGP中转机场、IPLC专线机场、IEPC专线机场，从机场协议区分包含了Shadowsocks节点、SSR节点、V2Ray节点、Trojan节点、Clash节点，从机场特色区分包含了高端机场、老牌机场、便宜机场、一元机场、性价比机场，推荐给各位[科学上网和翻墙梯子](https://gitlab.com/best_vpn1/tizi-1)爱好者，希望能够有所帮助。
 
 ![2024机场推荐01.jpg](https://s2.loli.net/2024/01/19/NHViuWv8mK56A9S.jpg)
 
 -----
 
-## 1.Suyunti速云梯机场-2024稳定翻墙梯子首选
+## 1.Suyunti速云梯机场-2025稳定翻墙梯子首选
 [点击官方网站注册](https://go.1vpn.cc/suyu)  
 最低套餐月付18元
 
@@ -26,7 +26,7 @@
 
 -----
 
-## 2.NiceClous奈思云机场-2024好用的SSR翻墙机场
+## 2.NiceClous奈思云机场-2025好用的SSR翻墙机场
 [点击官方网站注册](https://go.1vpn.cc/nisi)  
 最低套餐月付12元
 
@@ -42,7 +42,7 @@
 
 -----
 
-## 3.尔湾云机场-2024便宜的手机电脑挂外网梯子推荐
+## 3.尔湾云机场-2025便宜的手机电脑挂外网梯子推荐
 [点击官方网站注册](https://go.1vpn.cc/ewan)  
 最低套餐月付11元
 
